@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Whitecliffe SoIT',
+    description: 'Student Workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://kasmdev.github.io/kasm-registry/',
+    contactUrl: 'https://whitecliffe.ac.nz/',
   },
   reactStrictMode: true,
   swcMinify: true,
